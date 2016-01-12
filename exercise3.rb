@@ -3,3 +3,5 @@ puts "What is your name"
 # gets
 # name = gets.strip
 name = gets.chomp
+
+puts "Hi #{name}!"
