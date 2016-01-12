@@ -12,4 +12,4 @@
 
 # puts "Hello\rStart over world"
 
-puts "1. Hello\n2. World"
+# puts "1. Hello\n2. World"
